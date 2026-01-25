@@ -19,5 +19,11 @@ This repository contains my personal solutions to the CP 31 competitive programm
 | 21 | [Blank Space](800/21_Blank_Space.cpp) | 2026-01-24 | [Link](https://codeforces.com/problemset/problem/1829/B) |
 | 22 | [Coins](800/22_Coins.cpp) | 2026-01-24 | [Link](https://codeforces.com/problemset/problem/1841/A) |
 | 23 | [Walking Master](800/23_Walking_Master.cpp) | 2026-01-24 | [Link](https://codeforces.com/problemset/problem/1806/A) |
-
-</details>
+| 24 | [We Need The Zero](800/24_We_Need_The_Zero.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1805/A) |
+| 25 | [Prepend And Append](800/25_Prepend_And_Append.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1791/C) |
+| 26 | [Serval And Mochas Array](800/26_Serval_And_Mochas_Array.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1789/A) |
+| 27 | [One And Two](800/27_One_And_Two.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1788/A) |
+| 28 | [Make It Beautiful](800/28_Make_It_Beautiful.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1783/A) |
+| 29 | [Everybody Likes Good Arrays](800/29_Everybody_Likes_Good_Arrays.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1777/A) |
+| 30 | [Extremely Round](800/30_Extremely_Round.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1766/A) |
+| 31 | [Two Permutations](800/31_Two_Permutations.cpp) | 2026-01-25 | [Link](https://codeforces.com/problemset/problem/1761/A) |
