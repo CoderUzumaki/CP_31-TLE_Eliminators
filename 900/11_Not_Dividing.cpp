@@ -10,21 +10,26 @@ const int INF = LLONG_MAX >> 1;
 
 void solve() {
     int n; cin >> n;
-    string s; cin >> s;
+    
+    vector<int> arr(n);
+    for(int &a : arr) cin >> a;
 
-    int len = 0, maxLen = 0;
-    char prev = ' ';
-    for(char c : s) {
-        if(c == prev) len++;
-        else {
-            prev = c;
-            len = 1;
+    int ops = 0;
+    for(int i = 0; i < n; i++) {
+        if(arr[i] == 1) {
+            // ops++;
+            arr[i]++;
         }
-        
-        maxLen = max(maxLen, len);
-    }
 
-    cout << maxLen + 1 << endl;
+        if(i != 0 && arr[i] % arr[i-1] == 0) {
+            // ops++;
+            arr[i]++;
+        }
+
+        cout << arr[i] << " ";
+    }
+    // cout << "ops = " << ops;
+    cout << endl;
 }
 
 signed main() {
